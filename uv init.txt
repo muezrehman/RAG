@@ -1,0 +1,5 @@
+uv init
+uv venv
+crete requirement.txt file to inject like dependencies . for example langchain langchain-core etx.
+uv add -r .\requirement.txt
+uv add ipykernel
